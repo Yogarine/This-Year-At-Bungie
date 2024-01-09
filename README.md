@@ -12,8 +12,8 @@
   - 🟡 Operation: Seraph's Shield
 
 #### Tuesday, Januari 9
-- [Update 7.3.0.5] [1]
-- [Checkmate Changes in Update 7.3.0.5] [2]:
+- [Update 7.3.0.5][1]
+- [Checkmate Changes in Update 7.3.0.5][2]:
   > Based on player feedback, we’re making some changes to Checkmate in tomorrow’s update. Due to the amount of tuning,
   > Checkmate will be moved back to Labs.
   > 
